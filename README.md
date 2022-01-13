@@ -1,5 +1,30 @@
-### Hi there 👋
+### Hey, My name is Noss
 
+<br />
+
+[![ItsNoss Github Stats](https://github-readme-stats.vercel.app/api?username=ItsNoss&show_icons=true&theme=algolia)](https://github.com/itsnoss)
+
+<br />
+
+## I am a college student, IT Professional and Developer
+I am still fairly new to programming but I am having a lot of fun.
+
+Most of my projects, you will not be able to find because they were purged or not uploaded.
+
+- I am currently working on re-writing my bot for my Discord server[discord]
+
+<br />
+
+### Connect with me
+[<img align="left" alt="Noss's Lounge" width="22px"> src="https://img.shields.io/discord/709500370333859861?color=%234518f5&label=Discord&logo=discord&logoColor=%blue&style=flat-square" />][discord]
+[<img align="left" alt="Noss's Twitter" width="22px"> src="https://img.shields.io/twitter/follow/:realnoss?label=Twitter&Color=%blue&style=flat-square" />][twitter]
+[<img align="left" alt="Noss's Lounge" width="22px"> src="https://img.shields.io/badge/Email-contact%40itsnoss.tech-234518f?color=%blue&logo=gmail&logoColor=%23403d3d&style=flat-square" />][email]
+
+<br />
+
+[discord]: http://discord.itsnoss.tech
+[twitter]: https://twitter.com/realnoss
+[email]: mailto:contact@itsnoss.tech
 <!--
 **ItsNoss/ItsNoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
