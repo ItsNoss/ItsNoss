@@ -11,7 +11,7 @@ I am still fairly new to programming but I am having a lot of fun.
 
 Most of my projects, you will not be able to find because they were purged or not uploaded.
 
-- I am currently working on re-writing my bot for my Discord server[discord]
+- I am currently working on re-writing my bot for my Discord server [discord]
 
 <br />
 
@@ -22,9 +22,9 @@ Most of my projects, you will not be able to find because they were purged or no
 
 <br />
 
-[discord]http://discord.itsnoss.tech
-[twitter]https://twitter.com/realnoss
-[email]mailto:contact@itsnoss.tech
+[discord]: http://discord.itsnoss.tech
+[twitter]: https://twitter.com/realnoss
+[email]: mailto:contact@itsnoss.tech
 <!--
 **ItsNoss/ItsNoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
