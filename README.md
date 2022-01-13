@@ -16,9 +16,9 @@ Most of my projects, you will not be able to find because they were purged or no
 <br />
 
 ### Connect with me
-[<img align="left" alt="Noss's Lounge" width="50px" src="https://img.shields.io/discord/709500370333859861?color=%234518f5&label=Discord&logo=discord&logoColor=%blue&style=flat-square" />]
-[<img align="left" alt="Noss's Twitter" width="50px" src="https://img.shields.io/twitter/follow/:realnoss?label=Twitter&Color=%blue&style=flat-square" />]
-[<img align="left" alt="Noss's Lounge" width="50px" src="https://img.shields.io/badge/Email-contact%40itsnoss.tech-234518f?color=%blue&logo=gmail&logoColor=%23403d3d&style=flat-square" />]
+<img align="left" alt="Noss's Lounge" width="150px" src="https://img.shields.io/discord/709500370333859861?color=%234518f5&label=Discord&logo=discord&logoColor=%blue&style=flat-square" />
+<img align="left" alt="Noss's Twitter" width="150px" src="https://img.shields.io/twitter/follow/:realnoss?label=Twitter&Color=%blue&style=flat-square" />
+<img align="left" alt="Noss's Lounge" width="150px" src="https://img.shields.io/badge/Email-contact%40itsnoss.tech-234518f?color=%blue&logo=gmail&logoColor=%23403d3d&style=flat-square" />
 
 <br />
 <!--
