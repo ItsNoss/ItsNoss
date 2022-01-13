@@ -17,7 +17,7 @@ Most of my projects, you will not be able to find because they were purged or no
 
 ### Connect with me
 [![Discord](https://img.shields.io/discord/808598513646174228?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=flat-square)](http://discord.itsnoss.tech)
-[![Twitter](https://img.shields.io/twitter/user:realnoss?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=flat-square)](https://twitter.com/realnoss)
+[![Twitter](https://img.shields.io/twitter/follow/user:realnoss?color=%234518f5&label=Discord&logo=discord&logoColor=%23403d3d&style=flat-square)](https://twitter.com/realnoss)
 
 <br />
 <!--
