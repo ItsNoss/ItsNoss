@@ -22,9 +22,9 @@ Most of my projects, you will not be able to find because they were purged or no
 
 <br />
 
-[discord]: http://discord.itsnoss.tech
-[twitter]: https://twitter.com/realnoss
-[email]: mailto:contact@itsnoss.tech
+[discord]http://discord.itsnoss.tech
+[twitter]https://twitter.com/realnoss
+[email]mailto:contact@itsnoss.tech
 <!--
 **ItsNoss/ItsNoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
