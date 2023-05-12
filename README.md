@@ -7,7 +7,7 @@
 <br />
 
 ## I am a college student, IT Professional and Developer
-I am still fairly new to programming but I am having a lot of fun.
+I'm currently working on projects that utilize nextjs.
 
 Most of my projects, you will not be able to find because they were purged or not uploaded.
 
