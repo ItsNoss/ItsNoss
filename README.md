@@ -7,11 +7,9 @@
 <br />
 
 ## I am a college student, IT Professional and Developer
-I'm currently working on projects that utilize nextjs.
-
 Most of my projects, you will not be able to find because they were purged or not uploaded.
 
-- I am currently working on re-writing my bot for my [Discord server](http://discord.itsnoss.tech)
+- I am currently working on writing my bot for Discord.
 
 <br />
 
