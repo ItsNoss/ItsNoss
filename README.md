@@ -1,5 +1,3 @@
-# Hey, My name is Noss
-
 ## Repository Stats
 
 [![ItsNoss Github Stats](https://github-readme-stats.vercel.app/api?username=ItsNoss&show_icons=true&theme=algolia&card_width=500)](https://github.com/itsnoss)
